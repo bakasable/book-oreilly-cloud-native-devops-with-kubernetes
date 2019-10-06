@@ -1,5 +1,7 @@
 # Cloud Native DevOps with Kubernetes
 
+Please refer to the [orignal repo](https://github.com/cloudnativedevops/demo.git), this one is only for exercice purpose!
+
 ![Cloud Native DevOps cover image](/img/cover.jpg)
 
 Welcome! This is the example code repository to accompany the book 'Cloud Native DevOps with Kubernetes', by John Arundel and Justin Domingus. Buy the book here:
